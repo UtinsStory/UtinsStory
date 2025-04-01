@@ -15,7 +15,7 @@
 
 
 ## 🛠 Skills
-**UIKit / SwiftUI / Combine / MVC / MVVM / Core Data  / CocoaPods / SPM / GCD  / Unit Testing / UI Testing**
+**UIKit / SwiftUI / Combine / MVC / MVVM / Core Data  / CocoaPods / SPM / GCD / Unit Testing / UI Testing / GitFlow / Team development**
 
 
 
