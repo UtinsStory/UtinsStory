@@ -27,6 +27,7 @@
 > ⚙️ UIKIt, MVVM, UICollectionView, UITableView, SafariServices, Networking, Kingfisher, GCD, REST API
 
 The application helps users browse and purchase NFTs. Navigate through catalog, profile and cart screens. Add the best NFTs to favourites, view information about collection's author and more.
+
 Приложение помогает пользователям просматривать и приобретать NFT. Перемещайтесь по каталогу, профилю и корзине. Добавляйте лучшие NFT в избранное, просматривайте информацию об авторе коллекции и многое другое.
 
 - [TravelSchedule](https://github.com/UtinsStory/TravelSchedule)
