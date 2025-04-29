@@ -22,6 +22,13 @@
 
 ## 📱 Examples of the apps
 
+- [NFT Marketplace](https://github.com/UtinsStory/iOS-FakeNFT)
+  
+> ⚙️ UIKIt, MVVM, UICollectionView, UITableView, SafariServices, Networking, Kingfisher, GCD, REST API
+
+The application helps users browse and purchase NFTs. Navigate through catalog, profile and cart screens. Add the best NFTs to favourites, view information about collection's author and more.
+Приложение помогает пользователям просматривать и приобретать NFT. Перемещайтесь по каталогу, профилю и корзине. Добавляйте лучшие NFT в избранное, просматривайте информацию об авторе коллекции и многое другое.
+
 - [TravelSchedule](https://github.com/UtinsStory/TravelSchedule)
   
 > ⚙️ SwiftUI, MVVM, REST API, Dark theme
@@ -67,3 +74,11 @@ The goal of the game is to answer all 10 questions in a round correctly.
 Пользователь последовательно отвечает на вопросы о рейтингах фильмов.
 В конце каждого раунда игра отображает статистику, основанную на количестве правильных ответов и лучшем счете пользователя.
 Цель игры - правильно ответить на все 10 вопросов раунда.
+
+- [ToDo-List](https://github.com/UtinsStory/ToDo-List)
+  
+> ⚙️ UIKit, CoreData, URLSession, MVVM, Unit-testing, REST API
+
+A simple application for getting information about what has been done (a to-do list) with the ability to add, edit and delete tasks.
+
+Простое приложение для получения информации о том, что было сделано (список дел) с возможностью добавлять, редактировать и удалять задачи.
